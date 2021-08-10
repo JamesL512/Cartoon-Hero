@@ -1,0 +1,27 @@
+body{
+	background-color: yellow;
+}
+h1{
+	font-size: 60px;
+	color: powderblue;
+}
+
+h2{
+	font-size: 20px;
+	color: teal;
+}
+
+.fat{
+	font-size: 100px;
+}
+
+.uppercase{
+	text-transform: uppercase;
+}
+
+.fat.uppercase{
+	color: navy;
+}
+span{
+	color: violet;
+}

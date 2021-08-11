@@ -50,8 +50,8 @@ a{
 }
 
 a:hover{
-	color: hotpink;
-	font-size: 100px;
+	color: white;
+	background-color: orange;
 }
 
 footer{
@@ -71,8 +71,8 @@ footer a{
 }
 
 footer a:hover{
-	opacity: 5;
-	font-size: 100px;
+	 background-color: white;
+	 color: orange;
 }
 
 p.caption{
